@@ -3,6 +3,9 @@
  *
  *  Created on: Dec 28, 2020
  *      Author: frank
+ *
+ * starting implementation as described here:
+ * https://www2.cs.sfu.ca/~cameron/Teaching/384/99-3/regexp-plg.html
  */
 
 #include <boost/spirit/include/qi_char_class.hpp>
